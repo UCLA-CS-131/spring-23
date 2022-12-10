@@ -15,6 +15,8 @@ Project 3 has been released! It is due at **11:59 PM PT on November 22nd**. Some
 - [Project Starter Template](https://github.com/UCLA-CS-131/fall-22-proj-starter)
   - **includes Carey's Project 2 solution**. Take a look at this!
 - [Gradescope Submission](https://www.gradescope.com/courses/444425/assignments/2432757)
+- [Project3 Solution](https://github.com/UCLA-CS-131/project3_solution)
+
 
 New things to this project:
 
