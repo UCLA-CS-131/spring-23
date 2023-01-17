@@ -2,7 +2,9 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ba104626-f1a7-437c-b329-0ce1bc3be452/deploy-status)](https://app.netlify.com/sites/ucla-cs-131-f22/deploys)
 
-Hey there! This is the source code for the Fall 2022 CS 131 course website. It is built with:
+Note: this site is no longer updated with Fall 2022 ending.**
+
+**Hey there! This is the source code for the Fall 2022 CS 131 course website. It is built with:
 
 - [Jekyll](https://jekyllrb.com/), a [Ruby](https://www.ruby-lang.org/en/)-based static site generator
 - [just-the-docs](https://just-the-docs.github.io/just-the-docs/), a Jekyll theme providing the base styling and structure
