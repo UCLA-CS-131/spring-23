@@ -6,8 +6,6 @@ description: Listing of course modules and topics.
 
 # Course Calendar
 
-Coming soon: actual links!
-
 <form id="filter-form">
   Filter by:
   <input type="checkbox" id="Lecture" name="Lecture" value="Lecture" checked />
