@@ -1,7 +1,7 @@
 {% assign start_time = page.timeline | first %}
 {% capture offset %}{% include minutes.liquid time=start_time %}{% endcapture %}
 <div class="schedule">
-  <ul class="schedule-timeline" style="min-width: {{ page.schedule | size | times: 130 }}px">
+  <ul class="schedule-timeline" style="min-width: {{ page.schedule | size | times: 120 }}px">
     {% for time in page.timeline %}
     <li class="schedule-time">{{ time }} </li>
     {% endfor %}
@@ -20,7 +20,7 @@
         <li class="schedule-event {% if event.class %}{{ event.class }}{% else %}{{ event.name | slugify }}{% endif %}"
             style="top: {{ top }}px; height: {{ height }}px;">
           <div class="name">{{ event.name }}</div>
-          <div class="time">{{ event.start }}–{{ event.end }}</div>
+          <div class="time">{{ event.start }} - {{ event.end }}</div>
           {% if event.location %}
           <div class="location">{{ event.location }}</div>
           {% endif %}

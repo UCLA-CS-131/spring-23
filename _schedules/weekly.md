@@ -17,7 +17,7 @@ timeline:
   - '5:00 PM'
   - '5:30 PM'
 schedule:
-  - name: Times 
+  - name: Times
   - name: Monday
     events:
       - name: OH (Ruining)

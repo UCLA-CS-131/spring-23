@@ -32,7 +32,7 @@ aux_links:
     - 'https://github.com/UCLA-CS-131/spring-23'
 
 nav_external_links: #TODO
-  - title: Past website
+  - title: Past Website
     url: https://ucla-cs-131.github.io/fall-22/
   # - title: Campuswire
   #   url: https://campuswire.com/c/G66F8C62D/
@@ -88,10 +88,6 @@ compress_html:
   startings: []
   blanklines: false
   profile: false
-
-plugins:
-  - jekyll-seo-tag
-
 
 # Back to top link
 back_to_top: true
