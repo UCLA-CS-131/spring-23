@@ -1,6 +1,8 @@
 # CS 131 Course Website - Fall 2022
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ba104626-f1a7-437c-b329-0ce1bc3be452/deploy-status)](https://app.netlify.com/sites/ucla-cs-131-f22/deploys)
+[![CI](https://github.com/UCLA-CS-131/spring-23/actions/workflows/ci.yml/badge.svg)](https://github.com/UCLA-CS-131/spring-23/actions/workflows/ci.yml)
+[![Deploy Jekyll site to Pages](https://github.com/UCLA-CS-131/spring-23/actions/workflows/pages.yml/badge.svg)](https://github.com/UCLA-CS-131/spring-23/actions/workflows/pages.yml)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b7c71704-791f-4903-9ec4-30f011abae88/deploy-status)](https://app.netlify.com/sites/peaceful-horse-62944d/deploys)
 
 
 **Hey there! This is the source code for the Spring 2023 CS 131 course website. It is built with:
