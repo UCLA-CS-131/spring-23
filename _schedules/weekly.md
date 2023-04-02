@@ -16,7 +16,7 @@ timeline:
   - '4:30 PM'
   - '5:00 PM'
   - '5:30 PM'
-schedule:
+schedule: #TODO
   - name: Monday
     events:
       - name: OH (Matt)

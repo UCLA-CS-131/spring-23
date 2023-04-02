@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CS 131 Fall 2022
-tagline: Course website for Fall 2022 CS 131 | Programming Languages at UCLA
-description: Course website for Fall 2022 CS 131 | Programming Languages at UCLA
-author: Matthew Wang
-baseurl: '/fall-22' # the subpath of your site, e.g. /blog
+title: CS 131 Spring 2023
+tagline: Course website for Spring 2023 CS 131 | Programming Languages at UCLA
+description: Course website for Spring 2023 CS 131 | Programming Languages at UCLA
+author: Matthew Wang, Ruining Ding
+baseurl: '/spring-23' # the subpath of your site, e.g. /blog
 url: 'https://ucla-cs-131.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "vendor", "README.md"]
 
@@ -29,17 +29,19 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Website on GitHub:
-    - 'https://github.com/UCLA-CS-131/fall-22'
+    - 'https://github.com/UCLA-CS-131/spring-23'
 
-nav_external_links:
-  - title: Campuswire
-    url: https://campuswire.com/c/G66F8C62D/
-  - title: Gradescope
-    url: https://www.gradescope.com/courses/444425
-  - title: Lecture Slides
-    url: https://drive.google.com/drive/folders/1YB6pMh0aaaSPG0iO6zjPfRBNv-K4N-5q
-  - title: Discussion Resources
-    url: https://drive.google.com/drive/folders/1TBOqhuq2-JFEcW0KNkbnC6UXtpGUsATe
+nav_external_links: #TODO
+  - title: Past website
+    url: https://ucla-cs-131.github.io/fall-22/
+  # - title: Campuswire
+  #   url: https://campuswire.com/c/G66F8C62D/
+  # - title: Gradescope
+  #   url: https://www.gradescope.com/courses/444425
+  # - title: Lecture Slides
+  #   url: https://drive.google.com/drive/folders/1YB6pMh0aaaSPG0iO6zjPfRBNv-K4N-5q
+  # - title: Discussion Resources
+  #   url: https://drive.google.com/drive/folders/1TBOqhuq2-JFEcW0KNkbnC6UXtpGUsATe
 
 # Collections for website data
 collections:
@@ -99,7 +101,7 @@ back_to_top_text: "Back to top"
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub"
-gh_edit_repository: "https://github.com/UCLA-CS-131/fall-22" # the github URL for your repo
+gh_edit_repository: "https://github.com/UCLA-CS-131/spring-23" # the github URL for your repo
 gh_edit_branch: "main" # the branch that your docs is served from
 gh_edit_view_mode: "tree"
 
