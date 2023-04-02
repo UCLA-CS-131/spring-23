@@ -26,6 +26,6 @@ W Apr 12
 : **Posted**{: .label .label-green }HW 2
   : Gradescope
 
-F Oct 07
+F Apr 14
 : **Section**{: .label .label-purple }Discussion (Immutable Data structures)
   : [Discussion Resources](https://drive.google.com/drive/folders/1TBOqhuq2-JFEcW0KNkbnC6UXtpGUsATe)

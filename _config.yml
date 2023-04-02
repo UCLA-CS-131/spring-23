@@ -34,8 +34,8 @@ aux_links:
 nav_external_links: #TODO
   - title: Past Website
     url: https://ucla-cs-131.github.io/fall-22/
-  # - title: Campuswire
-  #   url: https://campuswire.com/c/G66F8C62D/
+  - title: Campuswire
+    url: https://campuswire.com/p/GCF9D6027
   # - title: Gradescope
   #   url: https://www.gradescope.com/courses/444425
   # - title: Lecture Slides

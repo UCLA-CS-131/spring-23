@@ -2,34 +2,41 @@
 title: OOP Palooza
 ---
 
-W Nov 09
+M May 15 
 : **Lecture**{: .label .label-blue }Intro to OOP
   : Lecture Notes, Slides
 
-F Nov 11
-: **Posted**{: .label .label-green }Project 3
-  : [Project Info]({{site.baseurl}}/projects)
-
-M Nov 14
+W May 17
 : **Lecture**{: .label .label-blue }Classes
   : Lecture Notes, Slides
+: **Due**{: .label .label-red }HW 6
+  : Solutions, Gradescope
+: **Posted**{: .label .label-green }HW 7
+  : Gradescope
 
-W Nov 16
+F May 19
+: **Section**{: .label .label-purple }Discussion (OOP topics)
+  : [Discussion Resources](https://drive.google.com/drive/folders/1TBOqhuq2-JFEcW0KNkbnC6UXtpGUsATe)
+
+U May 21
+: **Due**{: .label .label-red }Project 2
+  : Submission
+: **Posted**{: .label .label-green }Project 3
+  : Project Info
+
+
+M May 22
 : **Lecture**{: .label .label-blue }Inheritance
   : Lecture Notes, Slides
 
-R Nov 17
-: **Posted**{: .label .label-green }HW 6
+W May 24
+: **Lecture**{: .label .label-blue }Advanced Inheritance
+  : Lecture Notes, Slides
+: **Due**{: .label .label-red }HW 7
+  : Solutions, Gradescope
+: **Posted**{: .label .label-green }HW 8
   : Gradescope
 
-F Nov 18
+F May 26
 : **Section**{: .label .label-purple }Discussion (OOP, Project 3)
   : [Discussion Resources](https://drive.google.com/drive/folders/1TBOqhuq2-JFEcW0KNkbnC6UXtpGUsATe)
-
-M Nov 21
-: **Lecture**{: .label .label-blue }Advanced OOP and Patterns
-  : Lecture Notes, Slides
-
-T Nov 22
-: **Due**{: .label .label-red }Project 3
-  : Submission

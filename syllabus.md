@@ -16,6 +16,10 @@ Google Doc version: [Syllabus](https://docs.google.com/document/d/1ZLlCujkQNmtnS
 1. TOC
 {:toc}
 
+{:.note}
+
+Please sign up for Campuswire using this verification code: 9994
+
 ----
 
 ## Instructors and Class Meetings
