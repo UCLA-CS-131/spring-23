@@ -5,7 +5,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b7c71704-791f-4903-9ec4-30f011abae88/deploy-status)](https://app.netlify.com/sites/peaceful-horse-62944d/deploys)
 
 
-**Hey there! This is the source code for the Spring 2023 CS 131 course website. It is built with:
+Hey there! This is the source code for the Spring 2023 CS 131 course website. It is built with:
 
 - [Jekyll](https://jekyllrb.com/), a [Ruby](https://www.ruby-lang.org/en/)-based static site generator
 - [just-the-docs](https://just-the-docs.github.io/just-the-docs/), a Jekyll theme providing the base styling and structure
