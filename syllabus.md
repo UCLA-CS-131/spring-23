@@ -8,6 +8,8 @@ description: >-
 # Syllabus
 {:.no_toc}
 
+Google Doc version: [Syllabus](https://docs.google.com/document/d/1ZLlCujkQNmtnSxPpQSdaravZsBLojO14CWjaP1sU-wU/edit?usp=sharing).
+
 ## Table of contents
 {: .no_toc .text-delta }
 
@@ -24,13 +26,13 @@ Instructor: Carey Nachenberg
 
 Office: Engineering VI 299
 
-Class times: M/W 2-4pm
+Class times: M/W 4-6pm
 
-Course Location: Northwest Auditorium
+Course Location: Dodd Hall 147
 
-Instructor Office Hours: Eng VI room 464
+Instructor Office Hours: Mon/Wed 2:30-3:30pm @ Eng VI 472
 
-Office Hours: Mon/Wed 4-5pm or by appointment
+Alternate Instructor Office Hours: by appointment @ Eng VI 299
 
 
 | TA | Section | Discussion | Office Hours | Email |

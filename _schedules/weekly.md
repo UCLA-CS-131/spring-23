@@ -16,79 +16,64 @@ timeline:
   - '4:30 PM'
   - '5:00 PM'
   - '5:30 PM'
-schedule: #TODO
+schedule:
+  - name: Times 
   - name: Monday
     events:
-      - name: OH (Matt)
-        start: 11:00 AM
-        end: 12:00 PM
+      - name: OH (Ruining)
+        start: 10:30 AM
+        end: 11:30 AM
         location: Boelter 3256-S
       - name: OH (Carey)
-        start: 4:00 PM
-        end: 5:00 PM
-        location: Eng VI 464
+        start: 2:30 PM
+        end: 3:30 PM
+        location: Eng VI 472
       - name: Lecture
-        start: 2:00 PM
-        end: 3:50 PM
-        location: Northwest Campus Auditorium 101A
-      - name: OH (Matt) - Online
-        start: 5:00 PM
-        end: 6:00 PM
-        location: '<a href="https://mattxw.com/zoom" style="color: white">mattxw.com/zoom</a>'
+        start: 4:00 PM
+        end: 5:50 PM
+        location: Dodd Hall 147
   - name: Tuesday
     events:
-      - name: OH (Siddharth)
-        start: 10:00 AM
-        end: 11:00 AM
+      - name: OH (Ruining)
+        start: 12:30 PM
+        end: 1:30 PM
         location: Boelter 3256-S
-      - name: OH (Boyan)
-        start: 4:00 PM
-        end: 5:00 PM
-        location: Eng VI 392
   - name: Wednesday
     events:
-      - name: OH (Matt)
-        start: 11:00 AM
+      - name: OH (Carey)
+        start: 2:30 PM
+        end: 3:30 PM
+        location: Eng VI 472
+      - name: Lecture
+        start: 4:00 PM
+        end: 5:50 PM
+        location: Dodd Hall 147
+      - name: OH (Siddarth)
+        start: 10:00 AM
         end: 12:00 PM
         location: Boelter 3256-S
-      - name: Lecture
-        start: 2:00 PM
-        end: 3:50 PM
-        location: Northwest Campus Auditorium 101A
-      - name: OH (Ashwin)
-        start: 12:00 PM
-        end: 2:00 PM
-        location: Boelter 3256-S
-      - name: OH (Carey)
-        start: 4:00 PM
-        end: 5:00 PM
-        location: Eng VI 464
   - name: Thursday
     events:
-      - name: OH (Siddharth)
-        start: 10:00 AM
-        end: 11:00 AM
+      - name: OH (Matt)
+        start: 10:30 AM
+        end: 11:30 AM
         location: Boelter 3256-S
-      - name: OH (Boyan)
-        start: 3:00 PM
-        end: 4:00 PM
-        location: Eng VI 392
   - name: Friday
     events:
       - name: Section 1A
-        start: 10:00 AM
-        end: 11:50 AM
-        location: Renee and David Kaplan Hall A65
-      - name: Section 1B
         start: 12:00 PM
         end: 1:50 PM
-        location: Franz Hall 2258A
+        location: Royce Hall 190
+      - name: Section 1B
+        start: 2:00 PM
+        end: 3:50 PM
+        location: Haines Hall A25
       - name: Section 1C
         start: 2:00 PM
         end: 3:50 PM
-        location: Dodd Hall 170
+        location: Public Affairs Building 2270
       - name: Section 1D
         start: 4:00 PM
         end: 5:50 PM
-        location: Dodd Hall 170
+        location: Dodd Hall 175
 ---

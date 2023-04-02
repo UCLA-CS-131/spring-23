@@ -5,17 +5,13 @@ description: CS 131 Home
 nav_order: 1
 ---
 
-# UCLA CS 131 - Fall 2022
+# UCLA CS 131 - Spring 2023
 
-Welcome to the course website for the Fall 2022 offering of CS 131 at UCLA.
-
-{: .warning }
-
-As Fall 2022 has passed, this website is no longer updated. Please direct any concerns to Matt at [matt@matthewwang.me](mailto:matt@matthewwang.me).
+Welcome to the course website for the Spring 2023 offering of CS 131 at UCLA.
 
 {: .note }
 
-During the latter half of Fall 2022, [UC Academic Workers went on strike](https://dailybruin.com/tag/uc-academic-worker-strike-2022). Among other things, this affected website maintenance and course material development.
+The site is still currently under construction since some details for the spring quarter are yet to be finalized. Please check for updates frequently and direct any concerns to Ruining at [rding1507@g.ucla.edu](mailto:rding1507@g.ucla.edu).
 
 Some things that you can do:
 
