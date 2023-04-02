@@ -4,17 +4,17 @@ title: Data Palooza
 
 M Oct 17
 : **Lecture**{: .label .label-blue }Variables and Types
-  : [Lecture Notes]({{site.baseurl}}/lectures/07), [Slides](https://docs.google.com/presentation/d/18FaEpHZgssxTS-TNSs-VJDghLS1v5X1N/)
+  : Lecture Notes, Slides
 
 W Oct 19
 : **Lecture**{: .label .label-blue }Typing Deep Dive
-  : [Lecture Notes]({{site.baseurl}}/lectures/08), [Slides](https://docs.google.com/presentation/d/18FaEpHZgssxTS-TNSs-VJDghLS1v5X1N/)
+  : Lecture Notes, Slides
 
 R Oct 20
 : **Due**{: .label .label-red }HW 3
-  : [Solutions](https://drive.google.com/file/d/13fFDhIvUi_2pSa5ogKygt7DFdohiOfon/view?usp=sharing), [Gradescope](https://www.gradescope.com/courses/444425/assignments/2347950)
+  : Solutions, Gradescope
 : **Posted**{: .label .label-green }HW 4
-  : [Gradescope](https://www.gradescope.com/courses/444425/assignments/2368706)
+  : Gradescope
 
 F Oct 21
 : **Section**{: .label .label-purple }Discussion (Data Review, Project)
@@ -22,8 +22,8 @@ F Oct 21
 
 S Oct 23
 : **Due**{: .label .label-red }Project 1
-  : [Submission](https://www.gradescope.com/courses/444425/assignments/2345373)
+  : Submission
 
 M Oct 24
 : **Lecture**{: .label .label-blue }Binding, Memory, and Mutability
-  : [Lecture Notes]({{site.baseurl}}/lectures/09), [Slides](https://docs.google.com/presentation/d/18FaEpHZgssxTS-TNSs-VJDghLS1v5X1N/)
+  : Lecture Notes, Slides

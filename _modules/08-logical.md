@@ -4,7 +4,7 @@ title: Logical Programming
 
 W Nov 30
 : **Lecture**{: .label .label-blue }Intro to Prolog
-  : Lecture Notes
+  : Lecture Notes, Slides
 
 R Dec 01
 : **Due**{: .label .label-red }HW 7
