@@ -4,7 +4,7 @@ title: Functional Programming
 
 W Apr 5
 : **Lecture**{: .label .label-blue }Intro to FP and Haskell
-  : Lecture Notes, Slides
+  : Lecture Notes, [Slides](https://docs.google.com/presentation/d/1irnNsw7n355MdHlIA7bYqjMirG-oOj9H/edit?usp=share_link&ouid=101757866260235503028&rtpof=true&sd=true)
 
 W Apr 5
 : **Posted**{: .label .label-green }HW 1
