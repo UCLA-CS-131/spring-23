@@ -8,7 +8,7 @@ description: >-
 # Syllabus
 {:.no_toc}
 
-Google Doc version: [Syllabus](https://docs.google.com/document/d/1ZLlCujkQNmtnSxPpQSdaravZsBLojO14CWjaP1sU-wU/edit?usp=sharing).
+<!-- Google Doc version: [Syllabus](https://docs.google.com/document/d/1ZLlCujkQNmtnSxPpQSdaravZsBLojO14CWjaP1sU-wU/edit?usp=sharing). -->
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -125,7 +125,7 @@ See also: [course calendar]({{site.baseurl}}/calendar/).
 
 **Finals Week**
 
-- Final exam on Thursday, June 15th, from 8am-11am
+- 6/15 Final exam on Thursday, June 15th, from 8am-11am
 </div>
 </details>
 
@@ -142,67 +142,82 @@ See also: [course calendar]({{site.baseurl}}/calendar/).
 <details markdown="0">
 <summary markdown="0">Toggle Assignment Schedule</summary>
 <div markdown="1">
-Week 1: 9/26 and 9/28
 
-- 9/29 Homework 1 posted (basic Haskell topics, install Haskell and Python 3)
+Week 1:
 
-Week 2: 10/3 and 10/5
+- 4/5 Homework 1 posted 
+<!-- (basic Haskell topics, install Haskell and Python 3) -->
 
-- 10/6 Homework 1 due
-- 10/6 Homework 2 posted (advanced Haskell topics)
+Week 2: 
 
-Week 3: 10/10 and 10/12
+- 4/12 Homework 1 due at 11:59PM
+- 4/12 Homework 2 posted 
+<!-- (advanced Haskell topics) -->
 
-- 10/13 Homework 2 due
-- 10/13 Homework 3 posted (Python topics)
-- 10/13 Project 1 posted (v1 language implementation)
+Week 3:
 
-Week 4: 10/17 and 10/19
+- 4/18 Project 1 posted (due 5/7)
+<!-- (v1 language implementation) -->
+- 4/19 Homework 2 due at 11:59PM
+- 4/19 Homework 3 posted 
+<!-- (Python topics) -->
 
-- 10/20 Homework 3 due
-- 10/20 Homework 4 posted (typing, casting, scoping, binding strategies)
 
-Week 5: 10/24 and 10/26
+Week 4:
 
-- 10/23 Project 1 due
-- 10/27 Homework 4 due
-- 10/27 Homework 5 posted (pass-by, error handling,lambdas/closures, polymorphism)
-- 10/27 Project 2 posted (v2 language implementation)
+- 4/26 Homework 3 due at 11:59PM
+- 4/26 Homework 4 posted (on pt. 1/2 of data palooza; which is on midterm)
+<!-- (typing, casting, scoping, binding strategies) -->
 
-Week 6: 10/31 and 11/2
+Week 5: 
 
-- 11/2 Midterm
-- 11/4 (fri) Homework 5 due
+- 5/3 Homework 4 due at 11:59PM
+- 5/3 Homework 5 posted 
+<!-- (pass-by, error handling,lambdas/closures, polymorphism) -->
+- 5/4 Midterm exam (covers all material discussed through the end of Week 4)
+- 5/7 Project 1 due
+- 5/7 Project 2 posted (due 5/21)
+<!-- (v2 language implementation) -->
 
-Week 7: 11/7 and 11/9
+Week 6:
 
-- 11/8 Project 2 due
-- 11/11 Project 3 posted (v3 language implementation)
+- 5/10 Homework 5 due at 11:59PM
+- 5/10 Homework 6 posted
+<!-- (OOP topics) -->
 
-Week 8: 11/14 and 11/16
+Week 7: 
 
-- 11/17 Homework 6 posted (OOP topics)
+- 5/17 Homework 6 due at 11:59PM
+- 5/17 Homework 7 posted
+<!-- (short circuiting, looping, iterators, concurrency, logic programming) -->
+- 5/21 Project 2 due Sunday
+- 5/21 Project #3 assigned Sunday (due 6/4)
+<!-- (v3 language implementation) -->
 
-Week 9: 11/21 and 11/23
+Week 8: 
 
-- 11/22 Project 3 due
-- 11/23 Homework 6 due
-- 11/23 Homework 7 posted (short circuiting, looping, iterators, concurrency, logic programming)
+- 5/24 Homework 7 due at 11:59PM
+- 5/24 Homework 8 posted
 
-Week 10: 11/28 and 11/30
+Week 9: 
 
-- 12/1 Homework 7 due
-- 12/1 Homework 8 posted
+- 5/31 Homework 8 due at 11:59PM
+- 5/31 Homework 9 posted
 
-Finals week:
+Week 10: 
 
-- 12/8 Homework 8 due
+- 6/9 Homework 9 due
+
+<!-- Finals week: -->
 </div>
 </details>
 
 ## Examinations
 
 The midterm will cover material from the first four weeks of lectures and discussion sections. The final examination will cover material from the entire course. Missing the final for any reason will result in a final exam score of zero. **If you miss the midterm due to a health reason or family emergency**, your final exam score will be used to replace your missing score on the midterm. Missing the midterm for any other reason will result in a grade of zero on the midterm.
+
+Note that the midterm is on 5/4 from 6pm-8pm, NOT DURING CLASS! IT'S ON THURSDAY NIGHT!
+The midterm will cover all material discussed through the end of Week 4.
 
 ## Grading
 
@@ -231,6 +246,32 @@ There is no required textbook for this class (I couldn’t find any that I liked
 
 You will be responsible for all material covered in both lecture and discussion sections. **There will be new material covered in discussion sections, not just review of class material.** You are STRONGLY encouraged to attend discussion sections.
 
+<details markdown="0">
+<summary markdown="0">Toggle Discussion Topics</summary>
+<div markdown="1">
+
+Week 1 4/7: syntax vs. semantics, interpreter deep-dive, functional programming topics
+
+Week 2 4/14: immutable data structures, functional programming topics
+
+Week 3 4/21: Python topics, project #1 topics
+
+Week 4 4/28: data/type-related topics, midterm review 
+
+Week 5 5/5: variadic functions, data topics, function topics
+
+Week 6 5/12: function topics
+
+Week 7 5/19: access modifiers, other OOP topics 
+
+Week 8 5/26: multiple inheritance, destruction/finalization recap, OOP topics
+
+Week 9 6/2: TBA
+
+Week 10 6/9: event-loop programming model, concurrency topics, logic programming topics
+
+</div>
+</details>
 
 ## Acceptable Collaboration/Academic Integrity
 
