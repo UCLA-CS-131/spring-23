@@ -246,7 +246,7 @@ There is no required textbook for this class (I couldn’t find any that I liked
 
 You will be responsible for all material covered in both lecture and discussion sections. **There will be new material covered in discussion sections, not just review of class material.** You are STRONGLY encouraged to attend discussion sections.
 
-<details markdown="0">
+<!-- <details markdown="0">
 <summary markdown="0">Toggle Discussion Topics</summary>
 <div markdown="1">
 
@@ -266,12 +266,12 @@ Week 7 5/19: access modifiers, other OOP topics
 
 Week 8 5/26: multiple inheritance, destruction/finalization recap, OOP topics
 
-Week 9 6/2: TBA
+Week 9 6/2: control topics
 
 Week 10 6/9: event-loop programming model, concurrency topics, logic programming topics
 
 </div>
-</details>
+</details> -->
 
 ## Acceptable Collaboration/Academic Integrity
 

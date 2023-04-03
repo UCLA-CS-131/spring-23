@@ -20,7 +20,6 @@ Some things that you can do:
 - use the [weekly schedule]({{site.baseurl}}/schedule) to find professor and TA office hours
 - read TA-written [lecture notes]({{site.baseurl}}/lectures) that add on existing slide content
 - view [project specs and canonical solutions]({{site.baseurl}}/projects)
-  - this includes our [open-source autograder](https://github.com/UCLA-CS-131/fall-22-autograder)
 - see [homework due dates and solutions]({{site.baseurl}}/homeworks)
 - ~~stalk~~ learn more about our wonderful [staff]({{site.baseurl}}/staff)
 
