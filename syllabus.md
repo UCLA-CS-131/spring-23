@@ -41,10 +41,10 @@ Alternate Instructor Office Hours: by appointment @ Eng VI 299
 
 | TA | Section | Discussion | Office Hours | Email |
 |:---|:--------|:-----------|:-------------|:------|
-| Matthew Wang | 1A | Fri 10 AM - 11:50 AM | Mon/Wed 11 AM - 12 PM, Boelter 3256-S<br/> Mon 5 PM - 6 PM, [Zoom](https://mattxw.com/zoom) | [matt@matthewwang.me](mailto:matt@matthewwang.me) |
-| Ashwin Ranade | 1B | Fri 12 PM - 1:50 PM | Wed 12 PM - 2 PM, Boelter 3256-S | [ashwin.ranade@cs.ucla.edu](mailto:ashwin.ranade@cs.ucla.edu) |
-| Boyan Ding | 1C | Fri 2 PM - 3:50 PM | Tue 4-5 PM, Thu 3-4 PM, Eng VI 392 | [dboyan@cs.ucla.edu](mailto:dboyan@cs.ucla.edu) |
-| Siddarth Krishnamoorthy | 1D | Fri 4 PM - 5:50 PM | Tue/Thu 10 AM - 11 AM, Boelter 3256-S | [siddarthk@cs.ucla.edu](mailto:siddarthk@cs.ucla.edu) |
+| Matthew Wang | 1A | Fri 12 PM - 1:50 PM | Thu 10:30-11:30 and TBD, Boelter 3256-S<br/> | [matt@matthewwang.me](mailto:matt@matthewwang.me) |
+| Ruining Ding | 1B | Fri 2 PM - 3:50 PM | Mon 10:30-11:30 and Tues 12:30-1:30, Boelter 3256-S | [rding1507@g.ucla.edu](mailto:rding1507@g.ucla.edu) |
+| TBD | 1C | Fri 2 PM - 3:50 PM | TBD | TBD |
+| Siddarth Krishnamoorthy | 1D | Fri 4 PM - 5:50 PM | Wed 10:00 - 12:00, Boelter 3256-S | [siddarthk@cs.ucla.edu](mailto:siddarthk@cs.ucla.edu) |
 
 
 ## Topics and Exams
@@ -54,78 +54,78 @@ See also: [course calendar]({{site.baseurl}}/calendar/).
 <details markdown="0">
 <summary markdown="0">Toggle Course Topics and Exams</summary>
 <div markdown="1">
-**Week 1: 9/26 and 9/28**
+
+**Week 1: 4/3 and 4/5**
 
 - Course Introduction
-    - History, course methodology, syntax vs semantics, compilers/interpreters/linkers, Intro to functional programming
+    - History, course methodology, compilers/interpreters/linkers, intro to functional programming
 - Functional Programming, part 1
     - Haskell Intro, Haskell data types, list deep-dive, comprehensions
 
-**Week 2: 10/3 and 10/5**
+**Week 2: 4/10 and 4/12**
 
 - Functional Programming, part 2
-    - Haskell functions, local bindings, control flow (incl. guards), pattern matching, 1st-class and higher order functions
+    - Haskell functions, local bindings, control flow, pattern matching, 1st-class and higher order functions
 - Functional Programming, part 3
-    - Map/filter/reduce, lambdas/closures, currying, partial application, algebraic data types, immutable data structures [FP guest interview: Simon Peyton Jones]
+    - Map/filter/reduce, lambdas/closures, currying, partial application, algebraic data types, immutable data structures
 
-**Week 3: 10/10 and 10/12**
+**Week 3: 4/17 and 4/19**
 
 - Python, part 1
-    - The Python shell, program execution, functions, types/variables, looping, classes/inheritance, objects and references, garbage collection, duck typing
+    - The Python shell, program execution, functions,types/variables, looping, classes/inheritance, objects and references
 - Python, part 2
-    - Composite types (strings, lists, tuples, dictionaries, sets), parameter passing, exception handling, modules, functional influences
+    - Garbage collection, duck typing exception handling, modules, functional influences, composite types (strings, lists, tuples, dictionaries, sets), parameter passing
 
-**Week 4: 10/17 and 10/19**
+**Week 4: 4/24 and 4/26**
 
 - Data palooza, part 1
-    - Variables vs values, types, typing strategies (static vs. dynamic)
+    - Data: Variables vs values, types, typing strategies (static vs. dynamic)
 - Data palooza, part 2
     - Typing strategies, cont. (weak vs. strong), supertypes and subtypes, casting and conversion, scoping strategies (lexical vs. dynamic)
 
-**Week 5: 10/24 and 10/26**
+**Week 5: 5/1, 5/3 and 5/4**
 
 - Data palooza, part 3
-    - Binding semantics (value, reference, object reference, name/need), memory safety (garbage collection, smart pointers, object destruction/finalization), mutability
+    - Binding semantics (value, reference, object reference, name/need), memory safety (garbage collection, object destruction/finalization), mutability
 - Function palooza, part 1
     - Parameter passing (pass-by-..., variadics, named parameters, etc)
+- Midterm exam, 6-8PM
 
-**Week 6: 10/31 and 11/2**
+**Week 6: 5/8 and 5/10**
 
-- Function palooza, part 2 [FP guest interview: Bjarne Stroustrup]
+- Function palooza, part 2
     - Returning values and error handling (error objects, optionals, assertions/invariants, exceptions, panics)
-- Midterm exam
-
-**Week 7: 11/7 and 11/9**
-
 - Function palooza, part 3
-    - First-class functions (lambdas/closures across languages, capturing strategies), polymorphism (subtype, ad hoc, parametric - generics vs. templates)
+    - [Guest host: Robert Griesemer, co-inventor of Go]
+    - First-class functions (lambdas/closures across languages), polymorphism (subtype, ad hoc, parametric - generics vs. templates)
+
+**Week 7: 5/15 and 5/17** 
 - OOP palooza, part 1
-    - OOP intro, OOP history, encapsulation, classes (class fields/methods, construction/destruction/finalization)
-
-**Week 8: 11/14 and 11/16**   [OOP guest interview: Alan Kay, timing TBD]
-
+    - OOP intro, OOP history, encapsulation, classes (class fields/methods, construction ordering)
 - OOP palooza, part 2
-    - Classes cont. (this and self, access modifiers, properties, accessors/mutators), inheritance approaches (interface, subclassing)
+    - Classes cont. (this and self, properties, accessors/mutators), inheritance approaches (interface, subclassing)
+
+**Week 8: 5/22 and 5/24** 
 - OOP palooza, part 3
-    - Inheritance approaches cont. (implementation, prototypal), inheritance topics (construction/destruction/finalization, method overriding, multiple inheritance, abstract classes/methods)
-
-**Week 9: 11/21 and 11/23**
-
+    - Inheritance approaches cont. (implementation, prototypal), inheritance topics (construction ordering, method overriding, abstract classes/methods)
 - OOP palooza, part 4
     - Inheritance topics cont. (inheritance and typing), subtype polymorphism, dynamic dispatch, design patterns, OOP design patterns (SOLID)
+
+**Week 9: 5/29 and 5/31**
+- Memorial day Holiday
 - Control palooza, part 1
     - Expression evaluation (associativity, order of evaluation), short circuiting, control statements (conditionals, iteration), iterators (objects, generators, via 1st-class functions)
 
-**Week 10: 11/28 and 11/30**
+**Week 10: 6/5 and 6/7**
 
 - Control palooza, part 2
-    - Concurrency (multi-threading, event loop), multithreading (fork-join), event-loop (events, chaining background operations - callbacks, promises, async/await)
+    - Concurrency (multi-threading, event loop), multithreading (fork-join), (events, chaining background operations - callbacks, promises, async/await)
 - Logical programming
     - History, language overview, statements (facts, rules, goals), resolution, unification
 
 **Finals Week**
 
-- Final exam on Friday, December 9th, from 8am-11am
+- Final exam on Thursday, June 15th, from 8am-11am
 </div>
 </details>
 
@@ -133,7 +133,9 @@ See also: [course calendar]({{site.baseurl}}/calendar/).
 
 Assignments will take the form of homework and larger class projects. Homework will be graded on effort only. By "effort" we mean that you have attempted/solved all of the problems, provided solutions or partial solutions for each, and have documented where you got stuck on problems that you could not figure out. Class projects will be fully graded for correctness. All assignments will be due at 11:59pm on their due date. Homework and assignments that are turned in late will be penalized at the rate of 5% per hour past the deadline.
 
-### Assignment Schedule
+**Project and homework extensions will ONLY be granted for health issues and family emergencies.**
+
+### Assignment Schedule 
 
 See also: [course calendar]({{site.baseurl}}/calendar/).
 
@@ -200,7 +202,7 @@ Finals week:
 
 ## Examinations
 
-The midterm will cover material from the first six weeks of lectures and discussion sections. The final examination will cover material from the entire course. Missing the final for any reason will result in a final exam score of zero.
+The midterm will cover material from the first four weeks of lectures and discussion sections. The final examination will cover material from the entire course. Missing the final for any reason will result in a final exam score of zero. **If you miss the midterm due to a health reason or family emergency**, your final exam score will be used to replace your missing score on the midterm. Missing the midterm for any other reason will result in a grade of zero on the midterm.
 
 ## Grading
 
@@ -227,7 +229,7 @@ There is no required textbook for this class (I couldn’t find any that I liked
 
 ## Lecture and Discussion Sections
 
-You will be responsible for all material covered in both lecture and discussion sections. You are STRONGLY encouraged to attend discussion sections.
+You will be responsible for all material covered in both lecture and discussion sections. **There will be new material covered in discussion sections, not just review of class material.** You are STRONGLY encouraged to attend discussion sections.
 
 
 ## Acceptable Collaboration/Academic Integrity
@@ -235,3 +237,11 @@ You will be responsible for all material covered in both lecture and discussion 
 Homework: Since your homework is graded only based on effort, you may collaborate in any reasonable way you like that best enables you to learn the course material (simply copying solutions would not be a reasonable way to collaborate). Use the homework as means to prepare for exams and solidify your understanding.
 
 Projects: You may discuss general approaches/ideas, but refrain from sharing source code or pseudocode. Also, it is not acceptable to debug a classmate’s code for them or identify problems in their solution.
+
+Tools: So long as you add a citation to your project solutions, you may leverage limited amounts of code generated by tools such as Copilot, ChatGPT or Bing in your project solutions (up to 20% of your solution). You may also incorporate simple functions (e.g., ~10 lines of code) found on sites like StackOverflow, with appropriate citations. So, for example, if you used ChatGPT to generate a ten-line helper function called foo, you MUST include the following comments in your code:
+```
+# The following code was generated by ChatGPT, with some modifications that I made
+def foo(...)
+  …
+# End of ChatGPT code
+```

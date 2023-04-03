@@ -64,14 +64,14 @@ schedule:
         start: 12:00 PM
         end: 1:50 PM
         location: Royce Hall 190
-      - name: Section 1B
+      - name: Section 1B/1C
         start: 2:00 PM
         end: 3:50 PM
-        location: Haines Hall A25
-      - name: Section 1C
-        start: 2:00 PM
-        end: 3:50 PM
-        location: Public Affairs Building 2270
+        location: Haines Hall A25/Public Affairs Building 2270
+      # - name: Section 1C
+      #   start: 2:00 PM
+      #   end: 3:50 PM
+      #   location: 
       - name: Section 1D
         start: 4:00 PM
         end: 5:50 PM
