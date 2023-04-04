@@ -1,4 +1,4 @@
-# CS 131 Course Website - Fall 2022
+# CS 131 Course Website - Spring 2023
 
 [![CI](https://github.com/UCLA-CS-131/spring-23/actions/workflows/ci.yml/badge.svg)](https://github.com/UCLA-CS-131/spring-23/actions/workflows/ci.yml)
 [![Deploy Jekyll site to Pages](https://github.com/UCLA-CS-131/spring-23/actions/workflows/pages.yml/badge.svg)](https://github.com/UCLA-CS-131/spring-23/actions/workflows/pages.yml)
