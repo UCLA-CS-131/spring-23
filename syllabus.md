@@ -43,7 +43,7 @@ Alternate Instructor Office Hours: by appointment @ Eng VI 299
 |:---|:--------|:-----------|:-------------|:------|
 | Matthew Wang | 1A | Fri 12 PM - 1:50 PM | Thu 10:30-11:30 and TBD, Boelter 3256-S<br/> | [matt@matthewwang.me](mailto:matt@matthewwang.me) |
 | Ruining Ding | 1B | Fri 2 PM - 3:50 PM | Mon 10:30-11:30 and Tues 12:30-1:30, Boelter 3256-S | [rding1507@g.ucla.edu](mailto:rding1507@g.ucla.edu) |
-| TBD | 1C | Fri 2 PM - 3:50 PM | TBD | TBD |
+| Ashwin Ranade | 1C | Fri 2 PM - 3:50 PM | TBD | [ashwin.ranade@cs.ucla.edu](mailto:ashwin.ranade@cs.ucla.edu) |
 | Siddarth Krishnamoorthy | 1D | Fri 4 PM - 5:50 PM | Wed 10:00 - 12:00, Boelter 3256-S | [siddarthk@cs.ucla.edu](mailto:siddarthk@cs.ucla.edu) |
 
 
