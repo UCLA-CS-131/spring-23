@@ -4,7 +4,7 @@ title: Functional Programming
 
 W Apr 5
 : **Lecture**{: .label .label-blue }Intro to FP and Haskell
-  : Lecture Notes, [Slides](https://docs.google.com/presentation/d/1irnNsw7n355MdHlIA7bYqjMirG-oOj9H/edit?usp=share_link&ouid=101757866260235503028&rtpof=true&sd=true)
+  : [Lecture Notes]({{site.baseurl}}/lectures/02/), [Slides](https://docs.google.com/presentation/d/1irnNsw7n355MdHlIA7bYqjMirG-oOj9H/edit?usp=share_link&ouid=101757866260235503028&rtpof=true&sd=true)
 
 W Apr 5
 : **Posted**{: .label .label-green }HW 1
@@ -16,11 +16,11 @@ F Apr 7
 
 M Apr 10
 : **Lecture**{: .label .label-blue }FP part 2
-  : Lecture Notes, Slides
+  : Lecture Notes, [Slides](https://docs.google.com/presentation/d/1irnNsw7n355MdHlIA7bYqjMirG-oOj9H/edit?usp=share_link&ouid=101757866260235503028&rtpof=true&sd=true)
 
 W Apr 12
 : **Lecture**{: .label .label-blue }FP part 3
-  : Lecture Notes, Slides
+  : Lecture Notes, [Slides](https://docs.google.com/presentation/d/1irnNsw7n355MdHlIA7bYqjMirG-oOj9H/edit?usp=share_link&ouid=101757866260235503028&rtpof=true&sd=true)
 : **Due**{: .label .label-red }HW 1
   : Solutions, Gradescope
 : **Posted**{: .label .label-green }HW 2
