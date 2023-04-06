@@ -9,10 +9,6 @@ nav_order: 1
 
 Welcome to the course website for the Spring 2023 offering of CS 131 at UCLA.
 
-{: .note }
-
-The site is still currently under construction since some details for the spring quarter are yet to be finalized. Please check for updates frequently and direct any concerns to Ruining at [rding1507@g.ucla.edu](mailto:rding1507@g.ucla.edu).
-
 Some things that you can do:
 
 - [read the syllabus]({{site.baseurl}}/syllabus)

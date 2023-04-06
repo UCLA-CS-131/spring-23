@@ -8,7 +8,7 @@ W Apr 5
 
 W Apr 5
 : **Posted**{: .label .label-green }HW 1
-  : Gradescope
+  : [Gradescope](https://www.gradescope.com/courses/529662/assignments/2801558)
 
 F Apr 7
 : **Section**{: .label .label-purple }Discussion (FP overview)
