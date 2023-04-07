@@ -1,5 +1,6 @@
 ---
 timeline:
+  - '9:30 AM'
   - '10:00 AM'
   - '10:30 AM'
   - '11:00 AM'
@@ -55,7 +56,7 @@ schedule:
   - name: Thursday
     events:
       - name: OH (Matt)
-        start: 10:30 AM
+        start: 9:30 AM
         end: 11:30 AM
         location: Boelter 3256-S
   - name: Friday
@@ -71,7 +72,7 @@ schedule:
       # - name: Section 1C
       #   start: 2:00 PM
       #   end: 3:50 PM
-      #   location: 
+      #   location:
       - name: Section 1D
         start: 4:00 PM
         end: 5:50 PM
