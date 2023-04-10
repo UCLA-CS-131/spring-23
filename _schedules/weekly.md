@@ -39,6 +39,10 @@ schedule:
         start: 12:30 PM
         end: 1:30 PM
         location: Boelter 3256-S
+      - name: OH (Ashwin)
+        start: 2:00 PM
+        end: 4:00 PM
+        location: Boelter 3256-S
   - name: Wednesday
     events:
       - name: OH (Carey)
