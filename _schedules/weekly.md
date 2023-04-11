@@ -54,8 +54,8 @@ schedule:
         end: 5:50 PM
         location: Dodd Hall 147
       - name: OH (Siddarth)
-        start: 10:00 AM
-        end: 12:00 PM
+        start: 10:30 AM
+        end: 12:30 PM
         location: Boelter 3256-S
   - name: Thursday
     events:
