@@ -2,7 +2,7 @@
 title: OOP Palooza
 ---
 
-M May 15 
+M May 15
 : **Lecture**{: .label .label-blue }Intro to OOP
   : Lecture Notes, Slides
 
@@ -10,7 +10,7 @@ W May 17
 : **Lecture**{: .label .label-blue }Classes
   : Lecture Notes, Slides
 : **Due**{: .label .label-red }HW 6
-  : Solutions, Gradescope
+  : Solutions
 : **Posted**{: .label .label-green }HW 7
   : Gradescope
 
@@ -33,7 +33,7 @@ W May 24
 : **Lecture**{: .label .label-blue }Advanced Inheritance
   : Lecture Notes, Slides
 : **Due**{: .label .label-red }HW 7
-  : Solutions, Gradescope
+  : Solutions
 : **Posted**{: .label .label-green }HW 8
   : Gradescope
 

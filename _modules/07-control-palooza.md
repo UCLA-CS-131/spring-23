@@ -7,7 +7,7 @@ W May 31
   : Lecture Notes, Slides
 
 : **Due**{: .label .label-red }HW 8
-  : Solutions, Gradescope
+  : Solutions
 : **Posted**{: .label .label-green }HW 9
   : Gradescope
 
@@ -22,4 +22,3 @@ U Jun 4
 M Jun 5
 : **Lecture**{: .label .label-blue }Concurrency
   : Lecture Notes
-

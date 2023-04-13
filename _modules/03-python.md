@@ -14,7 +14,7 @@ W Apr 19
 : **Lecture**{: .label .label-blue }Advanced Python
   : Lecture Notes, Slides
 : **Due**{: .label .label-red }HW 2
-  : Solutions, Gradescope
+  : Solutions
 : **Posted**{: .label .label-green }HW 3
   : Gradescope
 
