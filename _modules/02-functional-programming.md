@@ -15,16 +15,16 @@ F Apr 7
   : [Discussion Resources](https://drive.google.com/drive/folders/1TBOqhuq2-JFEcW0KNkbnC6UXtpGUsATe)
 
 M Apr 10
-: **Lecture**{: .label .label-blue }FP part 2
-  : Lecture Notes, [Slides](https://docs.google.com/presentation/d/1irnNsw7n355MdHlIA7bYqjMirG-oOj9H/edit?usp=share_link&ouid=101757866260235503028&rtpof=true&sd=true)
+: **Lecture**{: .label .label-blue }FP: Functions, Binding, Control Flow
+  : [Lecture Notes]({{site.baseurl}}/lectures/03/), [Slides](https://docs.google.com/presentation/d/1irnNsw7n355MdHlIA7bYqjMirG-oOj9H/edit?usp=share_link&ouid=101757866260235503028&rtpof=true&sd=true)
 
 W Apr 12
 : **Lecture**{: .label .label-blue }FP part 3
   : Lecture Notes, [Slides](https://docs.google.com/presentation/d/1irnNsw7n355MdHlIA7bYqjMirG-oOj9H/edit?usp=share_link&ouid=101757866260235503028&rtpof=true&sd=true)
 : **Due**{: .label .label-red }HW 1
-  : Solutions, Gradescope
+  : [Solutions](https://drive.google.com/file/d/1UX8CIZpQxB-bTdzQZ1z9pZ9vJ6k5DvR8/view?usp=sharing)
 : **Posted**{: .label .label-green }HW 2
-  : Gradescope
+  : [Gradescope](https://www.gradescope.com/courses/529662/assignments/2818872)
 
 F Apr 14
 : **Section**{: .label .label-purple }Discussion (Immutable Data structures)

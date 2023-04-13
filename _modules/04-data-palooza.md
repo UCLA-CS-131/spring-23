@@ -10,7 +10,7 @@ W Apr 26
 : **Lecture**{: .label .label-blue }Typing Deep Dive
   : Lecture Notes, Slides
 : **Due**{: .label .label-red }HW 3
-  : Solutions, Gradescope
+  : Solutions
 : **Posted**{: .label .label-green }HW 4
   : Gradescope
 

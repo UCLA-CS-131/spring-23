@@ -6,7 +6,7 @@ W May 3
 : **Lecture**{: .label .label-blue }Parameter passing
   : Lecture Notes, Slides
 : **Due**{: .label .label-red }HW 4
-  : Solutions, Gradescope
+  : Solutions
 : **Posted**{: .label .label-green }HW 5
   : Gradescope
 
@@ -32,7 +32,7 @@ W May 10
 : **Lecture**{: .label .label-blue }First-class functions, polymorphism, Guest Robert Griesemer
   : Lecture Notes, Slides
 : **Due**{: .label .label-red }HW 5
-  : Solutions, Gradescope
+  : Solutions
 : **Posted**{: .label .label-green }HW 6
   : Gradescope
 
