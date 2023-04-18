@@ -8,7 +8,7 @@ M Apr 17
 
 T Apr 18
 : **Posted**{: .label .label-green }Project 1
-  : Project Info
+  : [Project Info]({{site.baseurl}}/projects)
 : **Lecture**{: .label .label-blue }Review Lecture: ADTs
   : [Lecture Notes]({{site.baseurl}}/lectures/04-5), [Slides](https://docs.google.com/presentation/d/1irnNsw7n355MdHlIA7bYqjMirG-oOj9H/edit?usp=share_link&ouid=101757866260235503028&rtpof=true&sd=true)
 
