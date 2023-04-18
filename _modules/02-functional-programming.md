@@ -11,7 +11,7 @@ W Apr 5
   : [Gradescope](https://www.gradescope.com/courses/529662/assignments/2801558)
 
 F Apr 7
-: **Section**{: .label .label-purple }Discussion (FP overview)
+: **Section**{: .label .label-purple }Discussion (Haskell, FP Review)
   : [Discussion Resources](https://drive.google.com/drive/folders/1TBOqhuq2-JFEcW0KNkbnC6UXtpGUsATe)
 
 M Apr 10
@@ -19,7 +19,7 @@ M Apr 10
   : [Lecture Notes]({{site.baseurl}}/lectures/03/), [Slides](https://docs.google.com/presentation/d/1irnNsw7n355MdHlIA7bYqjMirG-oOj9H/edit?usp=share_link&ouid=101757866260235503028&rtpof=true&sd=true)
 
 W Apr 12
-: **Lecture**{: .label .label-blue }FP part 3
+: **Lecture**{: .label .label-blue }FP: Advanced Functions (first-class, higher-order, lambdas, closures, currying)
   : [Lecture Notes]({{site.baseurl}}/lectures/04/), [Slides](https://docs.google.com/presentation/d/1irnNsw7n355MdHlIA7bYqjMirG-oOj9H/edit?usp=share_link&ouid=101757866260235503028&rtpof=true&sd=true)
 : **Due**{: .label .label-red }HW 1
   : [Solutions](https://drive.google.com/file/d/1UX8CIZpQxB-bTdzQZ1z9pZ9vJ6k5DvR8/view?usp=sharing)
@@ -27,5 +27,5 @@ W Apr 12
   : [Gradescope](https://www.gradescope.com/courses/529662/assignments/2818872)
 
 F Apr 14
-: **Section**{: .label .label-purple }Discussion (Immutable Data structures)
+: **Section**{: .label .label-purple }Discussion (ADTs, Immutable Data Structures)
   : [Discussion Resources](https://drive.google.com/drive/folders/1TBOqhuq2-JFEcW0KNkbnC6UXtpGUsATe)

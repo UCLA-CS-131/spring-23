@@ -3,12 +3,15 @@ title: Python
 ---
 
 M Apr 17
-: **Lecture**{: .label .label-blue }Python Basics
-  : Lecture Notes, [Slides](https://docs.google.com/presentation/d/1Tool2iOyv022hq5uBF8AjR091CZmu2vM/edit?usp=share_link&ouid=101757866260235503028&rtpof=true&sd=true)
+: **Lecture**{: .label .label-blue }Python Basics & OOP
+  : [Lecture Notes]({{site.baseurl}}/lectures/05), [Slides](https://docs.google.com/presentation/d/1Tool2iOyv022hq5uBF8AjR091CZmu2vM/edit?usp=share_link&ouid=101757866260235503028&rtpof=true&sd=true)
 
 T Apr 18
 : **Posted**{: .label .label-green }Project 1
   : Project Info
+: **Lecture**{: .label .label-blue }Review Lecture: ADTs
+  : [Lecture Notes]({{site.baseurl}}/lectures/04-5), [Slides](https://docs.google.com/presentation/d/1irnNsw7n355MdHlIA7bYqjMirG-oOj9H/edit?usp=share_link&ouid=101757866260235503028&rtpof=true&sd=true)
+
 
 W Apr 19
 : **Lecture**{: .label .label-blue }Advanced Python
