@@ -10,7 +10,7 @@ description: Project specs - build your own interpreter!
 
 Project 1 has been released! It is due at **11:59 PM PT on May 7th**. Some links that you'll find helpful:
 
-- [Project 1 Spec](ttps://docs.google.com/document/d/1pPQ2qZKbbsbZGBSwvuy1Ir-NZLPMgVt95WPQuI5aPho/)
+- [Project 1 Spec](https://docs.google.com/document/d/1pPQ2qZKbbsbZGBSwvuy1Ir-NZLPMgVt95WPQuI5aPho/)
 - [Project Autograder](https://github.com/UCLA-CS-131/spring-23-autograder) - **includes test cases!!**
 - [Project Starter Template](https://github.com/UCLA-CS-131/spring-23-project-starter)
 - [Gradescope Submission](https://www.gradescope.com/courses/529662/assignments/2827229/)
