@@ -15,7 +15,7 @@ T Apr 18
 
 W Apr 19
 : **Lecture**{: .label .label-blue }Advanced Python
-  : Lecture Notes, [Slides](https://docs.google.com/presentation/d/1Tool2iOyv022hq5uBF8AjR091CZmu2vM/edit?usp=share_link&ouid=101757866260235503028&rtpof=true&sd=true)
+  : [Lecture Notes]({{site.baseurl}}/lectures/06), [Slides](https://docs.google.com/presentation/d/1Tool2iOyv022hq5uBF8AjR091CZmu2vM/edit?usp=share_link&ouid=101757866260235503028&rtpof=true&sd=true)
 : **Due**{: .label .label-red }HW 2
   : [Solutions](https://drive.google.com/file/d/1UPfh_crB4VVvEWzFBHbgkNDXBWkgAya2/view?usp=sharing)
 : **Posted**{: .label .label-green }HW 3
