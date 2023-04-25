@@ -3,8 +3,8 @@ title: Data Palooza
 ---
 
 M Apr 24
-: **Lecture**{: .label .label-blue }Variables and Types, Guest Brian Kernighan
-  : Lecture Notes, [Slides](https://docs.google.com/presentation/d/1UvSSTczHqm74OvHXfN69Y75HDB3QEKab/edit?usp=share_link&ouid=101757866260235503028&rtpof=true&sd=true)
+: **Lecture**{: .label .label-blue }Typing Deep Dive, Guest Brian Kernighan
+  : [Lecture Notes]({{site.baseurl}}/lecutres/07), [Slides](https://docs.google.com/presentation/d/1UvSSTczHqm74OvHXfN69Y75HDB3QEKab/edit?usp=share_link&ouid=101757866260235503028&rtpof=true&sd=true)
 
 W Apr 26
 : **Lecture**{: .label .label-blue }Typing Deep Dive
