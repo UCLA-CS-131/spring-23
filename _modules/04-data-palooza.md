@@ -4,7 +4,7 @@ title: Data Palooza
 
 M Apr 24
 : **Lecture**{: .label .label-blue }Typing Deep Dive, Guest Brian Kernighan
-  : [Lecture Notes]({{site.baseurl}}/lecutres/07), [Slides](https://docs.google.com/presentation/d/1tHWSgvA6HHDDCPAdOoDBKpRKvbxNTjB3/edit?usp=sharing&ouid=101757866260235503028&rtpof=true&sd=true)
+  : [Lecture Notes]({{site.baseurl}}/lectures/07), [Slides](https://docs.google.com/presentation/d/1tHWSgvA6HHDDCPAdOoDBKpRKvbxNTjB3/edit?usp=sharing&ouid=101757866260235503028&rtpof=true&sd=true)
 
 W Apr 26
 : **Lecture**{: .label .label-blue }Typing Deep Dive
