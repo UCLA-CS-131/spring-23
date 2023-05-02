@@ -8,7 +8,7 @@ M Apr 24
 
 W Apr 26
 : **Lecture**{: .label .label-blue }Typing Deep Dive
-  : Lecture Notes, [Slides](https://docs.google.com/presentation/d/196AgYxc9mFypCwZwHAMNtbylKsfsANX8/edit?usp=sharing&ouid=101757866260235503028&rtpof=true&sd=true)
+  : [Lecture Notes]({{site.baseurl}}/lectures/08), [Slides](https://docs.google.com/presentation/d/196AgYxc9mFypCwZwHAMNtbylKsfsANX8/edit?usp=sharing&ouid=101757866260235503028&rtpof=true&sd=true)
 : **Due**{: .label .label-red }HW 3
   : Solutions
 : **Posted**{: .label .label-green }HW 4
@@ -19,5 +19,5 @@ F Apr 28
   : [Discussion Resources](https://drive.google.com/drive/folders/1TBOqhuq2-JFEcW0KNkbnC6UXtpGUsATe)
 
 M May 1
-: **Lecture**{: .label .label-blue }Data Palooza part 3
-  : Lecture Notes, [Slides](https://docs.google.com/presentation/d/196AgYxc9mFypCwZwHAMNtbylKsfsANX8/edit?usp=sharing&ouid=101757866260235503028&rtpof=true&sd=true)
+: **Lecture**{: .label .label-blue }Scoping, Garbage Collection
+  : [Lecture Notes]({{site.baseurl}}/lectures/09), [Slides](https://docs.google.com/presentation/d/196AgYxc9mFypCwZwHAMNtbylKsfsANX8/edit?usp=sharing&ouid=101757866260235503028&rtpof=true&sd=true)

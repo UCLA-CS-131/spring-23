@@ -11,7 +11,7 @@ W May 3
   : Gradescope
 
 R May 4
-: **Exam**{: .label .label-red }!!Midterm (6-8pm)
+: **Exam**{: .label .label-red }Midterm (6-7:30 PM, Dodd 147)
   : Midterm Solutions
 
 F May 5
