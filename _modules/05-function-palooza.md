@@ -4,7 +4,7 @@ title: Function Palooza
 
 W May 3
 : **Lecture**{: .label .label-blue }Parameter passing
-  : Lecture Notes, Slides
+  : Lecture Notes, [Slides](https://docs.google.com/presentation/d/16Y211kZL9e9b3rYCm5Ikzf45yH1Zs7yc/edit?usp=sharing&ouid=101757866260235503028&rtpof=true&sd=true)
 : **Due**{: .label .label-red }HW 4
   : Solutions
 : **Posted**{: .label .label-green }HW 5
@@ -26,11 +26,11 @@ U May 7
 
 M May 8
 : **Lecture**{: .label .label-blue }Returning values and error handling
-  : Lecture Notes, Slides
+  : Lecture Notes, [Slides](https://docs.google.com/presentation/d/16Y211kZL9e9b3rYCm5Ikzf45yH1Zs7yc/edit?usp=sharing&ouid=101757866260235503028&rtpof=true&sd=true)
 
 W May 10
 : **Lecture**{: .label .label-blue }First-class functions, polymorphism, Guest Robert Griesemer
-  : Lecture Notes, Slides
+  : Lecture Notes, [Slides](https://docs.google.com/presentation/d/16Y211kZL9e9b3rYCm5Ikzf45yH1Zs7yc/edit?usp=sharing&ouid=101757866260235503028&rtpof=true&sd=true)
 : **Due**{: .label .label-red }HW 5
   : Solutions
 : **Posted**{: .label .label-green }HW 6
