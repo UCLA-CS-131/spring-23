@@ -13,3 +13,4 @@ Homeworks will be released and turned in via Gradescope.  You will find links to
 - [Homework 3](https://www.gradescope.com/courses/529662/assignments/2837211), due **Wed April 26 at 11:59 PM**
   - [Homework 3 Solutions](https://drive.google.com/file/d/1D6RyNLIjdjt8cAbefQhih5b26H1eRqHb/view?usp=sharing)
 - [Homework 4](https://www.gradescope.com/courses/529662/assignments/2853324), due **Wed May 3 at 11:59 PM**
+- [Homework 5](https://www.gradescope.com/courses/529662/assignments/2871779), due **Wed May 10 at 11:59 PM**
