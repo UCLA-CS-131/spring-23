@@ -6,7 +6,7 @@ W May 3
 : **Lecture**{: .label .label-blue }Parameter passing
   : Lecture Notes, [Slides](https://docs.google.com/presentation/d/16Y211kZL9e9b3rYCm5Ikzf45yH1Zs7yc/edit?usp=sharing&ouid=101757866260235503028&rtpof=true&sd=true)
 : **Due**{: .label .label-red }HW 4
-  : Solutions
+  : [Solutions](https://drive.google.com/file/d/1WtRgGw6iC8gyKCR5VQ-iJsAGLhtvYiE5/view?usp=share_link)
 : **Posted**{: .label .label-green }HW 5
   : Gradescope
 
