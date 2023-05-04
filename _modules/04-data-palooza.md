@@ -12,7 +12,7 @@ W Apr 26
 : **Due**{: .label .label-red }HW 3
   : [Solutions](https://drive.google.com/file/d/1D6RyNLIjdjt8cAbefQhih5b26H1eRqHb/view?usp=sharing)
 : **Posted**{: .label .label-green }HW 4
-  : Gradescope
+  : [Gradescope](https://www.gradescope.com/courses/529662/assignments/2853324)
 
 F Apr 28
 : **Section**{: .label .label-purple }Discussion (Data Topics, Midterm Review)

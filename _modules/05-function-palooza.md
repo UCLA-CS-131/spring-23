@@ -6,21 +6,21 @@ W May 3
 : **Lecture**{: .label .label-blue }Parameter passing
   : Lecture Notes, [Slides](https://docs.google.com/presentation/d/16Y211kZL9e9b3rYCm5Ikzf45yH1Zs7yc/edit?usp=sharing&ouid=101757866260235503028&rtpof=true&sd=true)
 : **Due**{: .label .label-red }HW 4
-  : [Solutions](https://drive.google.com/file/d/1WtRgGw6iC8gyKCR5VQ-iJsAGLhtvYiE5/view?usp=share_link)
+  : [Solutions](https://drive.google.com/file/d/1OmyPc4XC8hGuu5stZDy38WArHTErcez8/view?usp=sharing)
 : **Posted**{: .label .label-green }HW 5
-  : Gradescope
+  : [Gradescope](https://www.gradescope.com/courses/529662/assignments/2871779)
 
 R May 4
 : **Exam**{: .label .label-red }Midterm (6-7:30 PM, Dodd 147)
   : Midterm Solutions
 
 F May 5
-: **Section**{: .label .label-purple }Discussion (Function topics)
+: **Section**{: .label .label-purple }Discussion (Project 1 + Data Palooza)
   : [Discussion Resources](https://drive.google.com/drive/folders/1TBOqhuq2-JFEcW0KNkbnC6UXtpGUsATe)
 
 U May 7
 : **Due**{: .label .label-red }Project 1
-  : Submission
+  : [Submission](https://www.gradescope.com/courses/529662/assignments/2827229)
 : **Posted**{: .label .label-green }Project 2
   : Project Info
 
