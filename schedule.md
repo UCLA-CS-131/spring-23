@@ -8,7 +8,7 @@ description: The weekly event schedule.
 
 Runs from Week 1 - Week 10. OH are office hours!
 
-Note: no discussions Week 7 & 9 due to university holidays (Veterans Day, Thanksgiving).
+Note: no lecture Week 9 Monday due to Memorial Day holiday (May 29th 2023)
 
 {% for schedule in site.schedules %}
 {{ schedule }}

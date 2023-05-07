@@ -2,14 +2,23 @@
 title: Control Palooza
 ---
 
-W Nov 23
+W May 31
 : **Lecture**{: .label .label-blue }Expressions, Control Flow, Iterators
-  : Lecture Notes
-: **Due**{: .label .label-red }HW 6
-  : Submission
-: **Posted**{: .label .label-green }HW 7
+  : Lecture Notes, Slides
+
+: **Due**{: .label .label-red }HW 8
+  : Solutions
+: **Posted**{: .label .label-green }HW 9
   : Gradescope
 
-M Nov 28
+F Jun 2
+: **Section**{: .label .label-purple }Discussion (control topics)
+  : [Discussion Resources](https://drive.google.com/drive/folders/1TBOqhuq2-JFEcW0KNkbnC6UXtpGUsATe)
+
+U Jun 4
+: **Due**{: .label .label-red }Project 3
+  : Submission
+
+M Jun 5
 : **Lecture**{: .label .label-blue }Concurrency
   : Lecture Notes

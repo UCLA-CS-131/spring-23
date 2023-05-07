@@ -2,22 +2,26 @@
 title: Python
 ---
 
-M Oct 10
-: **Lecture**{: .label .label-blue }Python Basics
-  : [Lecture Notes]({{site.baseurl}}/lectures/05), [Slides](https://docs.google.com/presentation/d/19BCl4QgTMv2f78xPCrlCCL2mE1PBXz_J/)
+M Apr 17
+: **Lecture**{: .label .label-blue }Python Basics & OOP
+  : [Lecture Notes]({{site.baseurl}}/lectures/05), [Slides](https://docs.google.com/presentation/d/1Tool2iOyv022hq5uBF8AjR091CZmu2vM/edit?usp=share_link&ouid=101757866260235503028&rtpof=true&sd=true)
 
-W Oct 12
-: **Lecture**{: .label .label-blue }Advanced Python
-  : [Lecture Notes]({{site.baseurl}}/lectures/06), [Slides](https://docs.google.com/presentation/d/19BCl4QgTMv2f78xPCrlCCL2mE1PBXz_J/)
-
-R Oct 13
-: **Due**{: .label .label-red }HW 2
-  : [Solutions](https://drive.google.com/file/d/1bV6m5Rmt6ZcEISR_WkbVF6fCWHTwR2L1/view?usp=sharing), [Gradescope](https://www.gradescope.com/courses/444425/assignments/2327903/)
-: **Posted**{: .label .label-green }HW 3
-  : [Gradescope](https://www.gradescope.com/courses/444425/assignments/2347950)
+T Apr 18
 : **Posted**{: .label .label-green }Project 1
   : [Project Info]({{site.baseurl}}/projects)
+: **Lecture**{: .label .label-blue }Review Lecture: ADTs
+  : [Lecture Notes]({{site.baseurl}}/lectures/04-5), [Slides](https://docs.google.com/presentation/d/1irnNsw7n355MdHlIA7bYqjMirG-oOj9H/edit?usp=share_link&ouid=101757866260235503028&rtpof=true&sd=true)
 
-F Oct 14
+
+W Apr 19
+: **Lecture**{: .label .label-blue }Advanced Python + Types
+  : [Lecture Notes]({{site.baseurl}}/lectures/06), [Slides](https://docs.google.com/presentation/d/1Tool2iOyv022hq5uBF8AjR091CZmu2vM/edit?usp=share_link&ouid=101757866260235503028&rtpof=true&sd=true)
+: **Due**{: .label .label-red }HW 2
+  : [Solutions](https://drive.google.com/file/d/1UPfh_crB4VVvEWzFBHbgkNDXBWkgAya2/view?usp=sharing)
+: **Posted**{: .label .label-green }HW 3
+  : [Gradescope](https://www.gradescope.com/courses/529662/assignments/2837211)
+
+
+F Apr 21
 : **Section**{: .label .label-purple }Discussion (Project Overview, More FP)
   : [Discussion Resources](https://drive.google.com/drive/folders/1TBOqhuq2-JFEcW0KNkbnC6UXtpGUsATe)

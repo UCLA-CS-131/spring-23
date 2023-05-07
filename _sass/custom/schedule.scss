@@ -49,7 +49,7 @@
     border-left: $border $border-color;
     flex: 1 0 0;
     margin: 0;
-    min-width: 130px;
+    min-width: 120px;
 
     &:first-of-type {
       border-left: 0;
@@ -87,7 +87,10 @@
       @extend .fs-3, .fw-700;
     }
 
-    .time,
+    .time {
+      @extend .fs-1
+    }
+
     .location {
       @extend .fs-2;
     }
@@ -102,7 +105,8 @@
     &.section-1a,
     &.section-1b,
     &.section-1c,
-    &.section-1d
+    &.section-1d,
+    &.section-1b-1c
     {
       background-color: $purple-000;
     }

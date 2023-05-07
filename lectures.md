@@ -9,8 +9,8 @@ has_children: true
 
 These lecture notes are written by the TAs. They aim to supplement and expand upon the course slides.
 
-<!-- {% for lecture in site.lectures %}
+{% for lecture in site.lectures %}
 
 - [{{lecture.title}}]({{site.baseurl}}{{ lecture.url }})
 
-{% endfor %} -->
+{% endfor %}

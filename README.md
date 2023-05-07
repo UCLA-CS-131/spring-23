@@ -1,10 +1,11 @@
-# CS 131 Course Website - Fall 2022
+# CS 131 Course Website - Spring 2023
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ba104626-f1a7-437c-b329-0ce1bc3be452/deploy-status)](https://app.netlify.com/sites/ucla-cs-131-f22/deploys)
+[![CI](https://github.com/UCLA-CS-131/spring-23/actions/workflows/ci.yml/badge.svg)](https://github.com/UCLA-CS-131/spring-23/actions/workflows/ci.yml)
+[![Deploy Jekyll site to Pages](https://github.com/UCLA-CS-131/spring-23/actions/workflows/pages.yml/badge.svg)](https://github.com/UCLA-CS-131/spring-23/actions/workflows/pages.yml)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b7c71704-791f-4903-9ec4-30f011abae88/deploy-status)](https://app.netlify.com/sites/peaceful-horse-62944d/deploys)
 
-Note: this site is no longer updated with Fall 2022 ending.**
 
-**Hey there! This is the source code for the Fall 2022 CS 131 course website. It is built with:
+Hey there! This is the source code for the Spring 2023 CS 131 course website. It is built with:
 
 - [Jekyll](https://jekyllrb.com/), a [Ruby](https://www.ruby-lang.org/en/)-based static site generator
 - [just-the-docs](https://just-the-docs.github.io/just-the-docs/), a Jekyll theme providing the base styling and structure
@@ -17,15 +18,15 @@ This project follows general Ruby conventions. We highly suggest you use [rbenv]
 First, clone the repository.
 
 ```sh
-git clone https://github.com/UCLA-CS-131/fall-22.git
+git clone https://github.com/UCLA-CS-131/spring-23.git
 # or, with SSH
-git clone git@github.com:UCLA-CS-131/fall-22.git
+git clone git@github.com:UCLA-CS-131/spring-23.git
 ```
 
 Then, go into the folder, and install the relevant dependencies with bundler:
 
 ```sh
-$ cd fall-22
+$ cd spring-23
 $ bundle
 ```
 
@@ -33,14 +34,14 @@ Finally, serve the site:
 
 ```sh
 $ bundle exec jekyll serve
-Configuration file: /Users/matt/code/fall-22/_config.yml
-            Source: /Users/matt/code/fall-22
-       Destination: /Users/matt/code/fall-22/_site
+Configuration file: /Users/ruiningd/Desktop/131/spring-23/_config.yml
+            Source: /Users/ruiningd/Desktop/131/spring-23
+       Destination: /Users/ruiningd/Desktop/131/spring-23/_site
  Incremental build: disabled. Enable with --incremental
-      Generating...
-                    done in 0.664 seconds.
- Auto-regeneration: enabled for '/Users/matt/code/fall-22'
-    Server address: http://127.0.0.1:4000/fall-22/
+      Generating... 
+                    done in 1.919 seconds.
+ Auto-regeneration: enabled for '/Users/ruiningd/Desktop/131/spring-23'
+    Server address: http://127.0.0.1:4000/spring-23/
   Server running... press ctrl-c to stop.
 ```
 
