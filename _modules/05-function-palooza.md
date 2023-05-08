@@ -22,7 +22,7 @@ U May 7
 : **Due**{: .label .label-red }Project 1
   : [Submission](https://www.gradescope.com/courses/529662/assignments/2827229)
 : **Posted**{: .label .label-green }Project 2
-  : Project Info
+  : [Project Info]({{site.baseurl}}/projects)
 
 M May 8
 : **Lecture**{: .label .label-blue }Returning values and error handling
