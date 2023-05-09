@@ -12,7 +12,7 @@ Project 2 has been released! It is due at **11:59 PM PT on May 21st**. Some link
 
 - [Project 2 Spec](https://docs.google.com/document/d/1simlDMO0TK-YNDPYjkuU1C3fcaBpbIVYRaKD1pdqJj8/edit?usp=sharing)
 - [Project Autograder](https://github.com/UCLA-CS-131/spring-23-autograder) - **includes 10% of test cases!!**
-- [Project Starter Template](https://github.com/UCLA-CS-131/spring-23-project-starter) **will be updated with project 1 solutions on May 9th**
+- [Project Starter Template](https://github.com/UCLA-CS-131/spring-23-project-starter) **will be updated with project 1 solutions after May 9th**
 - [Gradescope Submission](https://www.gradescope.com/courses/529662/assignments/2879796/)
 - [Barista (now with version 2 available) ](https://barista.fly.dev/)
 
