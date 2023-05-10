@@ -4,11 +4,11 @@ title: OOP Palooza
 
 M May 15
 : **Lecture**{: .label .label-blue }Intro to OOP
-  : Lecture Notes, Slides
+  : Lecture Notes, [Slides](https://docs.google.com/presentation/d/1PoFs9qgy08Dk05IE32IZfyCapGB8rWXs/edit?usp=sharing&ouid=101757866260235503028&rtpof=true&sd=true)
 
 W May 17
 : **Lecture**{: .label .label-blue }Classes
-  : Lecture Notes, Slides
+  : Lecture Notes, [Slides](https://docs.google.com/presentation/d/1PoFs9qgy08Dk05IE32IZfyCapGB8rWXs/edit?usp=sharing&ouid=101757866260235503028&rtpof=true&sd=true)
 : **Due**{: .label .label-red }HW 6
   : Solutions
 : **Posted**{: .label .label-green }HW 7
@@ -27,11 +27,11 @@ U May 21
 
 M May 22
 : **Lecture**{: .label .label-blue }Inheritance
-  : Lecture Notes, Slides
+  : Lecture Notes, [Slides](https://docs.google.com/presentation/d/1PoFs9qgy08Dk05IE32IZfyCapGB8rWXs/edit?usp=sharing&ouid=101757866260235503028&rtpof=true&sd=true)
 
 W May 24
 : **Lecture**{: .label .label-blue }Advanced Inheritance
-  : Lecture Notes, Slides
+  : Lecture Notes, [Slides](https://docs.google.com/presentation/d/1PoFs9qgy08Dk05IE32IZfyCapGB8rWXs/edit?usp=sharing&ouid=101757866260235503028&rtpof=true&sd=true)
 : **Due**{: .label .label-red }HW 7
   : Solutions
 : **Posted**{: .label .label-green }HW 8
