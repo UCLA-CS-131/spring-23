@@ -25,16 +25,16 @@ U May 7
   : [Project Info]({{site.baseurl}}/projects)
 
 M May 8
-: **Lecture**{: .label .label-blue }Returning values and error handling
+: **Lecture**{: .label .label-blue }First-class Functions, Returning Values, Error Handling
   : [Lecture Notes]({{site.baseurl}}/lectures/11), [Slides](https://docs.google.com/presentation/d/16Y211kZL9e9b3rYCm5Ikzf45yH1Zs7yc/edit?usp=sharing&ouid=101757866260235503028&rtpof=true&sd=true)
 
 W May 10
-: **Lecture**{: .label .label-blue }First-class functions, polymorphism, Guest Robert Griesemer
+: **Lecture**{: .label .label-blue }Guest Robert Griesemer + Returning Values, Error Handling
   : Lecture Notes, [Slides](https://docs.google.com/presentation/d/16Y211kZL9e9b3rYCm5Ikzf45yH1Zs7yc/edit?usp=sharing&ouid=101757866260235503028&rtpof=true&sd=true)
 : **Due**{: .label .label-red }HW 5
   : Solutions
 : **Posted**{: .label .label-green }HW 6
-  : Gradescope
+  : [Gradescope](https://www.gradescope.com/courses/529662/assignments/2888320)
 
 F May 12
 : **Section**{: .label .label-purple }Discussion (More function topics)
