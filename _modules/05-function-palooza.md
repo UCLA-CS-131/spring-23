@@ -32,7 +32,7 @@ W May 10
 : **Lecture**{: .label .label-blue }Guest Robert Griesemer + Returning Values, Error Handling
   : Lecture Notes, [Slides](https://docs.google.com/presentation/d/16Y211kZL9e9b3rYCm5Ikzf45yH1Zs7yc/edit?usp=sharing&ouid=101757866260235503028&rtpof=true&sd=true)
 : **Due**{: .label .label-red }HW 5
-  : Solutions
+  : [Solutions](https://drive.google.com/file/d/1anBgOp-fIRjKMitOk3mtalOovpyAYB2L/view?usp=sharing)
 : **Posted**{: .label .label-green }HW 6
   : [Gradescope](https://www.gradescope.com/courses/529662/assignments/2888320)
 
