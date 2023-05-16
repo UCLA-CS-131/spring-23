@@ -12,7 +12,7 @@ W May 3
 
 R May 4
 : **Exam**{: .label .label-red }Midterm (6-7:30 PM, Dodd 147)
-  : Midterm Solutions
+  : [Midterm Solutions]({{site.baseurl}}/practice)
 
 F May 5
 : **Section**{: .label .label-purple }Discussion (Project 1 + Data Palooza)
@@ -30,12 +30,16 @@ M May 8
 
 W May 10
 : **Lecture**{: .label .label-blue }Guest Robert Griesemer + Returning Values, Error Handling
-  : Lecture Notes, [Slides](https://docs.google.com/presentation/d/16Y211kZL9e9b3rYCm5Ikzf45yH1Zs7yc/edit?usp=sharing&ouid=101757866260235503028&rtpof=true&sd=true)
+  : [Lecture Notes]({{site.baseurl}}/lectures/12), [Slides](https://docs.google.com/presentation/d/16Y211kZL9e9b3rYCm5Ikzf45yH1Zs7yc/edit?usp=sharing&ouid=101757866260235503028&rtpof=true&sd=true)
 : **Due**{: .label .label-red }HW 5
   : [Solutions](https://drive.google.com/file/d/1anBgOp-fIRjKMitOk3mtalOovpyAYB2L/view?usp=sharing)
 : **Posted**{: .label .label-green }HW 6
   : [Gradescope](https://www.gradescope.com/courses/529662/assignments/2888320)
 
 F May 12
-: **Section**{: .label .label-purple }Discussion (More function topics)
+: **Section**{: .label .label-purple }Error Handling and Project 2
   : [Discussion Resources](https://drive.google.com/drive/folders/1TBOqhuq2-JFEcW0KNkbnC6UXtpGUsATe)
+
+M May 15
+: **Lecture**{: .label .label-blue }Parametric Polymorphism
+  : [Lecture Notes]({{site.baseurl}}/lectures/13), [Slides](https://docs.google.com/presentation/d/16Y211kZL9e9b3rYCm5Ikzf45yH1Zs7yc/edit?usp=sharing&ouid=101757866260235503028&rtpof=true&sd=true)

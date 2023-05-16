@@ -4,7 +4,7 @@ title: OOP Palooza
 
 M May 15
 : **Lecture**{: .label .label-blue }Intro to OOP
-  : Lecture Notes, [Slides](https://docs.google.com/presentation/d/1PoFs9qgy08Dk05IE32IZfyCapGB8rWXs/edit?usp=sharing&ouid=101757866260235503028&rtpof=true&sd=true)
+  : [Lecture Notes]({{site.baseurl}}/lectures/13), [Slides](https://docs.google.com/presentation/d/1PoFs9qgy08Dk05IE32IZfyCapGB8rWXs/edit?usp=sharing&ouid=101757866260235503028&rtpof=true&sd=true)
 
 W May 17
 : **Lecture**{: .label .label-blue }Classes
