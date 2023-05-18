@@ -17,4 +17,5 @@ Homeworks will be released and turned in via Gradescope.  You will find links to
 - [Homework 5](https://www.gradescope.com/courses/529662/assignments/2871779), due **Wed May 10 at 11:59 PM**
   - [Homework 5 Solutions](https://drive.google.com/file/d/1anBgOp-fIRjKMitOk3mtalOovpyAYB2L/)
 - [Homework 6](https://www.gradescope.com/courses/529662/assignments/2888320), due **Wed May 17 at 11:59 PM**
+  - [Homework 6 Solutions](https://drive.google.com/file/d/1Erm20vmHuajW_Gjj7UjAQT12t35rtbrd/)
 - [Homework 7](https://www.gradescope.com/courses/529662/assignments/2901030), due **Wed May 24 at 11:59 PM**

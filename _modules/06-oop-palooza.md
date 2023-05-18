@@ -10,7 +10,7 @@ W May 17
 : **Lecture**{: .label .label-blue }Classes
   : Lecture Notes, [Slides](https://docs.google.com/presentation/d/1PoFs9qgy08Dk05IE32IZfyCapGB8rWXs/edit?usp=sharing&ouid=101757866260235503028&rtpof=true&sd=true)
 : **Due**{: .label .label-red }HW 6
-  : Solutions
+  : [Solutions](https://drive.google.com/file/d/1Erm20vmHuajW_Gjj7UjAQT12t35rtbrd/view?usp=sharing)
 : **Posted**{: .label .label-green }HW 7
   : [Gradescope](https://www.gradescope.com/courses/529662/assignments/2901030)
 
