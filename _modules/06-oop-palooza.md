@@ -12,7 +12,7 @@ W May 17
 : **Due**{: .label .label-red }HW 6
   : Solutions
 : **Posted**{: .label .label-green }HW 7
-  : Gradescope
+  : [Gradescope](https://www.gradescope.com/courses/529662/assignments/2901030)
 
 F May 19
 : **Section**{: .label .label-purple }Discussion (OOP topics)
