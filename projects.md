@@ -6,6 +6,16 @@ description: Project specs - build your own interpreter!
 
 # Project Specs
 
+## Project 3
+
+Project 3 has been released! It is due at **11:59 PM PT on June 4th**. Some links that you'll find helpful:
+
+- [Project 3 Spec](https://docs.google.com/document/d/1YqSGkY4lE5nr-u27TQ-C8vd7f21SQA-qHL1aZf0ye4s/edit?usp=sharing)
+- [Project Autograder](https://github.com/UCLA-CS-131/spring-23-autograder) - **includes test cases!!**
+- [Project Starter Template](https://github.com/UCLA-CS-131/spring-23-project-starter) **will be updated with project 2 solutions by May 24th**
+- [Gradescope Submission](https://www.gradescope.com/courses/529662/assignments/2906325)
+- [Barista (version 3 available by May 24th) ](https://barista.fly.dev/)
+
 ## Project 2
 
 Project 2 has been released! It is due at **11:59 PM PT on May 21st**. Some links that you'll find helpful:
