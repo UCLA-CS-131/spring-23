@@ -8,6 +8,16 @@ description: Past Midterms & Finals
 
 Here are some practice midterms and finals to help you prepare!
 
+## Practice Finals
+
+When relevant, the provided final is "Variation 1".
+
+| Final Questions (PDF) | Final Solutions (PDF) |
+|:------------------------|:------------------------|
+| [Fall 2022 Final]({{site.baseurl}}/assets/exams/fall-2022-final.pdf) | [Fall 2022 Final Solutions]({{site.baseurl}}/assets/exams/fall-2022-final-solutions.pdf) |
+| [Fall 2022 Extra Practice Questions, Solutions]({{site.baseurl}}/assets/exams/fall-2022-final-extra.pdf) | |
+|:------------------------|:------------------------|
+
 ## Practice Midterms
 
 When relevant, the provided midterm is "Variation 1".
