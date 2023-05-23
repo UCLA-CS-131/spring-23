@@ -15,9 +15,9 @@ F Jun 2
 : **Section**{: .label .label-purple }Discussion (control topics)
   : [Discussion Resources](https://drive.google.com/drive/folders/1TBOqhuq2-JFEcW0KNkbnC6UXtpGUsATe)
 
-U Jun 4
+S Jun 4
 : **Due**{: .label .label-red }Project 3
-  : Submission
+  : [Submission](https://www.gradescope.com/courses/529662/assignments/2906325)
 
 M Jun 5
 : **Lecture**{: .label .label-blue }Concurrency
