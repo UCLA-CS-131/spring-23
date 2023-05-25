@@ -33,7 +33,7 @@ W May 24
 : **Lecture**{: .label .label-blue }Subtype Polymorphism, Dynamic Dispatch
   : Lecture Notes, [Slides](https://docs.google.com/presentation/d/1PoFs9qgy08Dk05IE32IZfyCapGB8rWXs/edit?usp=sharing&ouid=101757866260235503028&rtpof=true&sd=true)
 : **Due**{: .label .label-red }HW 7
-  : Solutions
+  : [Solutions](https://drive.google.com/file/d/1pLWSZrByyucgM8TeNybfyUelTQNlplEI/view?usp=sharing)
 : **Posted**{: .label .label-green }HW 8
   : [Gradescope](https://www.gradescope.com/courses/529662/assignments/2913550)
 
