@@ -30,12 +30,12 @@ M May 22
   : [Lecture Notes]({{site.baseurl}}/lectures/15), [Slides](https://docs.google.com/presentation/d/1PoFs9qgy08Dk05IE32IZfyCapGB8rWXs/edit?usp=sharing&ouid=101757866260235503028&rtpof=true&sd=true)
 
 W May 24
-: **Lecture**{: .label .label-blue }Advanced Inheritance
+: **Lecture**{: .label .label-blue }Subtype Polymorphism, Dynamic Dispatch
   : Lecture Notes, [Slides](https://docs.google.com/presentation/d/1PoFs9qgy08Dk05IE32IZfyCapGB8rWXs/edit?usp=sharing&ouid=101757866260235503028&rtpof=true&sd=true)
 : **Due**{: .label .label-red }HW 7
   : Solutions
 : **Posted**{: .label .label-green }HW 8
-  : Gradescope
+  : [Gradescope](https://www.gradescope.com/courses/529662/assignments/2913550)
 
 F May 26
 : **Section**{: .label .label-purple }Discussion (OOP, Project 3)
