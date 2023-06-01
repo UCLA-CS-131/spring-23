@@ -7,7 +7,7 @@ W May 31
   : Lecture Notes, [Slides](https://docs.google.com/presentation/d/1u1PJH2L8Mi_010USm4ZkFaGQ5vJGHlyK/)
 
 : **Due**{: .label .label-red }HW 8
-  : Solutions
+  : [Solutions](https://drive.google.com/file/d/1ekzVs5aF1hjxMsH1OwAZkTXdRv2Yyj4R/view?usp=sharing)
 : **Posted**{: .label .label-green }HW 9
   : [Gradescope](https://www.gradescope.com/courses/529662/assignments/2922061)
 
