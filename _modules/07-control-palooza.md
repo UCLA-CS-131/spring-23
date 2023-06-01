@@ -4,12 +4,12 @@ title: Control Palooza
 
 W May 31
 : **Lecture**{: .label .label-blue }Expressions, Control Flow, Iterators
-  : Lecture Notes, Slides
+  : Lecture Notes, [Slides](https://docs.google.com/presentation/d/1u1PJH2L8Mi_010USm4ZkFaGQ5vJGHlyK/)
 
 : **Due**{: .label .label-red }HW 8
   : Solutions
 : **Posted**{: .label .label-green }HW 9
-  : Gradescope
+  : [Gradescope](https://www.gradescope.com/courses/529662/assignments/2922061)
 
 F Jun 2
 : **Section**{: .label .label-purple }Discussion (control topics)
