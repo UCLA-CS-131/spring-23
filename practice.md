@@ -14,7 +14,7 @@ When relevant, the provided final is "Variation 1".
 
 | Final Questions (PDF) | Final Solutions (PDF) |
 |:------------------------|:------------------------|
-| [Fall 2022 Final]({{site.baseurl}}/assets/exams/fall-2022-final.pdf) | [Fall 2022 Final Solutions]({{site.baseurl}}/assets/exams/fall-2022-final-solutions.pdf) |
+| [Fall 2022 Final (Revised)]({{site.baseurl}}/assets/exams/fall-2022-final-revised.pdf) | [Fall 2022 Final Solutions (Revised)]({{site.baseurl}}/assets/exams/fall-2022-final-solutions-revised.pdf) |
 | [Fall 2022 Extra Practice Questions, Solutions]({{site.baseurl}}/assets/exams/fall-2022-final-extra.pdf) | |
 |:------------------------|:------------------------|
 
