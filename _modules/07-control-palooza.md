@@ -21,4 +21,4 @@ S Jun 4
 
 M Jun 5
 : **Lecture**{: .label .label-blue }Concurrency
-  : Lecture Notes, [Slides](https://docs.google.com/presentation/d/1u1PJH2L8Mi_010USm4ZkFaGQ5vJGHlyK/)
+  : [Lecture Notes]({{site.baseurl}}/lectures/18), [Slides](https://docs.google.com/presentation/d/1u1PJH2L8Mi_010USm4ZkFaGQ5vJGHlyK/)

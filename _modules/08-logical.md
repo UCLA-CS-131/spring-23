@@ -2,6 +2,10 @@
 title: Logical Programming
 ---
 
+M Jun 5
+: **Lecture**{: .label .label-blue }Logic Programming
+  : [Lecture Notes]({{site.baseurl}}/lectures/18), [Slides](https://docs.google.com/presentation/d/1-lNmUwBASu-KslLvfHpr7up8yOyRZmpa/edit?usp=sharing&ouid=101757866260235503028&rtpof=true&sd=true)
+
 W Jun 7
 : **Lecture**{: .label .label-blue }Logic Programming
   : Lecture Notes, [Slides](https://docs.google.com/presentation/d/1-lNmUwBASu-KslLvfHpr7up8yOyRZmpa/edit?usp=sharing&ouid=101757866260235503028&rtpof=true&sd=true)
