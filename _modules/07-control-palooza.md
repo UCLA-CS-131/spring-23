@@ -4,7 +4,7 @@ title: Control Palooza
 
 W May 31
 : **Lecture**{: .label .label-blue }Expressions, Control Flow, Iterators
-  : Lecture Notes, [Slides](https://docs.google.com/presentation/d/1u1PJH2L8Mi_010USm4ZkFaGQ5vJGHlyK/)
+  : [Lecture Notes]({{site.baseurl}}/lectures/17), [Slides](https://docs.google.com/presentation/d/1u1PJH2L8Mi_010USm4ZkFaGQ5vJGHlyK/)
 
 : **Due**{: .label .label-red }HW 8
   : [Solutions](https://drive.google.com/file/d/1ekzVs5aF1hjxMsH1OwAZkTXdRv2Yyj4R/view?usp=sharing)
