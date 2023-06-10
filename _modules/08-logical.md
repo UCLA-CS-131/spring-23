@@ -14,4 +14,4 @@ F Jun 9
 : **Section**{: .label .label-purple }Discussion (Prolog, Final)
   : [Discussion Resources](https://drive.google.com/drive/folders/1TBOqhuq2-JFEcW0KNkbnC6UXtpGUsATe)
 : **Due**{: .label .label-red }HW 9
-  : Solutions
+  : [Solutions](https://drive.google.com/file/d/16f648EtHlRrA-2ORX2ZBmMO1jPw9huhj/view?usp=sharing)
